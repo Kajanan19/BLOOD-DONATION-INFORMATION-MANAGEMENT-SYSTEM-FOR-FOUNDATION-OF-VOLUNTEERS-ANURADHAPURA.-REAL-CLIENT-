@@ -1,0 +1,2 @@
+# BLOOD-DONATION-INFORMATION-MANAGEMENT-SYSTEM-FOR-FOUNDATION-OF-VOLUNTEERS-ANURADHAPURA.-REAL-CLIENT-
+STAND ALONE JAVA APPLICATION JAVA ,MySQL A System to build efficient communication streams with the blood donors, patients and volunteers by sending SMS to the donors and volunteers when blood needed immediately to the patients who has not got the suitable blood groups. Managing and filtering the patient , Blood donors and volunteers
